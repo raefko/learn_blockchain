@@ -35,6 +35,7 @@
 
 ## Basics
 - [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=HUs1bH85X9I)
+- [Security and Privacy for Crypto with Zero-Knowledge Proofs](https://www.youtube.com/watch?v=3NL0ThdvWMU)
 
 ## ZK-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
