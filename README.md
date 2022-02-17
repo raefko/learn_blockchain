@@ -36,10 +36,6 @@
 ## Basics
 - [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=HUs1bH85X9I)
 
-## R1CS/Circuits
-- [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
-- [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
-
 ## ZK-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
 
@@ -51,6 +47,10 @@
 ### Examples with code:
 - [Dark forest's intro + circuits PARRT 1](https://blog.zkga.me/intro-to-zksnarks)
 - [Dark forest's intro + circuits PARRT 2](https://blog.zkga.me/df-init-circuit)
+
+## R1CS/Circuits
+- [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
+- [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
 
 ## Aleo
 - [Programmable Zero Knowledge with Aleo](https://www.youtube.com/watch?v=o08E4gx9TqA&t=1593)
