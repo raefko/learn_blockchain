@@ -39,6 +39,16 @@
 ## ZK-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
 
+### Step-by-step in-depth explanation of zk-SNARKs key details (OPTIONAL)
+
+- [Homomorfic Hiding](https://z.cash/blog/snark-explain)
+- [Blind Evaluation of Polynomials](https://z.cash/blog/snark-explain2)
+- [The Knowledge of Coefficient Test and Assumption](https://z.cash/blog/snark-explain3)
+- [How to make Blind Evaluation of Polynomials Verifiable](https://z.cash/blog/snark-explain4)
+- [From Computations to Polynomials](https://z.cash/blog/snark-explain5)
+- [The Pinocchio Protocol](https://z.cash/blog/snark-explain6)
+- [Pairings of Elliptic Curves](https://z.cash/blog/snark-explain7)
+
 ### Advanced topics:
 - [Vitalik's introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
 - [Vitalik's post on quadratic arithmetic programs](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
