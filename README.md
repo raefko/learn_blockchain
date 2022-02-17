@@ -40,7 +40,7 @@
 ## ZK-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
 
-### Step-by-step in-depth explanation of zk-SNARKs key details (OPTIONAL)
+### How Zero Knowledge Proofs are generated (OPTIONAL)
 
 - [Homomorfic Hiding](https://z.cash/blog/snark-explain)
 - [Blind Evaluation of Polynomials](https://z.cash/blog/snark-explain2)
