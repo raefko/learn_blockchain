@@ -39,7 +39,7 @@
 
 ## ZK-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
-
+- [Intro to zk-SNARKs - Howard Wu](https://zeroknowledge.fm/38-2/)
 ### How Zero Knowledge Proofs are generated (OPTIONAL)
 
 - [Homomorfic Hiding](https://z.cash/blog/snark-explain)
