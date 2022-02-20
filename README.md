@@ -28,10 +28,15 @@
 - [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
 - [Capture the Ether](https://capturetheether.com/challenges/)
 
+## Vulnerabilities
+
+- [Smart Contract Vulnerabilities (SCV) List](https://github.com/sirhashalot/SCV-List)
+
 ## MEV
 - [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234)
 
-# Learn Zero-knowledge
+
+# Learn Zero Knowledge Proofs
 
 ## Basics
 - [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=HUs1bH85X9I)
