@@ -1,5 +1,12 @@
 # Learn Blockchain
 
+# Pre-requisites
+
+- [Public & Private Keys](https://www.youtube.com/watch?v=GSIDS_lvRv4)
+- [Digital Signatures - How they work?](https://www.youtube.com/watch?v=s22eJ1eVLTU)
+- [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70)
+
+
 # Basics
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 - [Bitcoin paper](https://bitcoin.org/bitcoin.pdf)
