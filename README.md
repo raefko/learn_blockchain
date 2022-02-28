@@ -47,6 +47,7 @@
 ## ZK-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
 - [Intro to zk-SNARKs - Howard Wu](https://zeroknowledge.fm/38-2/)
+- [Zcash Ceremony](https://www.youtube.com/watch?v=D6dY-3x3teM)
 
 ### Advanced topics:
 - [Vitalik's introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
