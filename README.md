@@ -1,5 +1,12 @@
 # Learn Blockchain
 
+# Pre-requisites
+
+- [Public & Private Keys](https://www.youtube.com/watch?v=GSIDS_lvRv4)
+- [Digital Signatures - How they work?](https://www.youtube.com/watch?v=s22eJ1eVLTU)
+- [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70)
+
+
 # Basics
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 - [Bitcoin paper](https://bitcoin.org/bitcoin.pdf)
@@ -40,13 +47,12 @@
 
 ## Basics
 - [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=HUs1bH85X9I)
-
-## R1CS/Circuits
-- [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
-- [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
+- [Security and Privacy for Crypto with Zero-Knowledge Proofs](https://www.youtube.com/watch?v=3NL0ThdvWMU)
 
 ## ZK-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
+- [Intro to zk-SNARKs - Howard Wu](https://zeroknowledge.fm/38-2/)
+- [Zcash Ceremony](https://www.youtube.com/watch?v=D6dY-3x3teM)
 
 ### Advanced topics:
 - [Vitalik's introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
@@ -56,6 +62,10 @@
 ### Examples with code:
 - [Dark forest's intro + circuits PARRT 1](https://blog.zkga.me/intro-to-zksnarks)
 - [Dark forest's intro + circuits PARRT 2](https://blog.zkga.me/df-init-circuit)
+
+## R1CS/Circuits
+- [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
+- [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
 
 ## Aleo
 - [Programmable Zero Knowledge with Aleo](https://www.youtube.com/watch?v=o08E4gx9TqA&t=1593)
