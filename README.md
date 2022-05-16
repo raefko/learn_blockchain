@@ -16,6 +16,7 @@
 - [Bitcoin paper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum paper](https://ethereum.org/en/whitepaper/)
 - [Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
+- [Cryptoeconomics In 30 Minutes - Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
 
 ## Ethereum
 
