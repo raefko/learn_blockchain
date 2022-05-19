@@ -28,6 +28,7 @@
 - [BuidlGuidl is a curated group of Ethereum builders](https://buidlguidl.com/)
 
 ### Ethereum Internals
+- [EVM Deep Dives: The Path to Shadowy Super Coder](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
 - [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)
 - [Ethereum Virtual Machine](https://youtu.be/BsDq2mzC5tk)
 - [Ethereum VM and Consensus by Fredrik Haga](https://youtu.be/Wq8kryb2Ats)
