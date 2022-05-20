@@ -11,6 +11,7 @@
 - [Raoul Pal Discusses with Punk6529: NFTs, IP Rights & The Metaverse](https://youtu.be/2Un_S1Z8yQo)
 - [Michael Saylor: Bitcoin, Inflation, and the Future of Money ](https://youtu.be/mC43pZkpTec)
 - [The Networked State - Balaji Srinivasan](https://youtu.be/NlY8HICFiRs)
+- [Cancelled Nickel Trades on the LME - Patrick Boyle](https://youtu.be/tHXF5LyLI4M)
 
 ### Basics
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
@@ -20,6 +21,7 @@
 - [Cryptoeconomics In 30 Minutes - Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
 
 ### Courses
+- [Stanford CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
 - [MIT 15.S12 Blockchain and Money - Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 
 ## Ethereum
@@ -30,6 +32,9 @@
 - [Crypto Zombies](https://cryptozombies.io/)
 - [Peter's Solidity Recruitment Test](https://youtu.be/80fA7foSi7c)
 - [BuidlGuidl is a curated group of Ethereum builders](https://buidlguidl.com/)
+
+#### Contracts
+- [Programming DeFi: Uniswap V2](https://jeiwan.net/posts/programming-defi-uniswapv2-1/)
 
 ### Ethereum Internals
 - [EVM Deep Dives: The Path to Shadowy Super Coder](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
@@ -84,3 +89,7 @@
 
 ## Aleo
 - [Programmable Zero Knowledge with Aleo](https://www.youtube.com/watch?v=o08E4gx9TqA&t=1593)
+
+## Stablecoins
+- [UXD](https://uxd.fi/)
+- [Frax](https://app.frax.finance)
