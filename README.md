@@ -10,6 +10,7 @@
 - [Balaji Srinivasan - Bitcoin and Ethereum, Crypto Oracles, and More](https://youtu.be/eim8REOYLzA)
 - [Raoul Pal Discusses with Punk6529: NFTs, IP Rights & The Metaverse](https://youtu.be/2Un_S1Z8yQo)
 - [Michael Saylor: Bitcoin, Inflation, and the Future of Money ](https://youtu.be/mC43pZkpTec)
+- [The Networked State - Balaji Srinivasan](https://youtu.be/NlY8HICFiRs)
 
 ### Basics
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
@@ -17,6 +18,9 @@
 - [Ethereum paper](https://ethereum.org/en/whitepaper/)
 - [Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
 - [Cryptoeconomics In 30 Minutes - Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
+
+### Courses
+- [MIT 15.S12 Blockchain and Money - Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 
 ## Ethereum
 
