@@ -19,6 +19,7 @@
 - [Ethereum paper](https://ethereum.org/en/whitepaper/)
 - [Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
 - [Cryptoeconomics In 30 Minutes - Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
+- [Trie, Merkle, Patricia: A Blockchain Story](http://kronosapiens.github.io/blog/2018/07/04/patricia-trees.html)
 
 ### Courses
 - [Stanford CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
